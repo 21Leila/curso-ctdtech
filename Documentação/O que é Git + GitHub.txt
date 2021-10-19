@@ -1,0 +1,33 @@
+O que é Git + GitHub
+
+O Git é um Sistema de Controle de Versão Distribuído.Que possibilita o clone local do projeto um repositório de controle de versão completo.
+
+GitHub: É classificado como uma rede social, porque permite que as pessoas se socializam entre elas ajudando assim na evolução dos projetos.
+
+-Como instalar Git para Dowloads:
+
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git 
+
+- Criar a conta no GitHub:
+ https://github.com/
+
+- Configuração do Git Bash Here
+-Ciclo de atualização de códigos
+
+Resumo sobre do Curso:
+
+1- Git Init : Inicializa um novo repositório
+2- Git add. : Adiciona os arquivos atuais ao próximo commit.
+3- Git Status: Verificar o status atual dos repositório git 
+4- Git Commit -m "Mensagem do commit": Cria um novo commit com uma mensagem
+5-Git Push : Envia as atualizações para a nuvem na branch atualmente ativa
+6- Git Branch: Permite listar e ver qual branch está ativa atualmente
+7- Git Checkout nome-da-branch: Permite mudar para uma nova branch 
+8-Git Checkout -b "nome da branch de origem" "nome de nova branch": permite mudar e criar uma nova branch com base em outra.
+9-Git Merge "branch a receber merge":permite fazer o merge da branch ativa atualmente com outra branch 
+10-Git pull: atualiza a branch atualmente ativa 
+
+
+
+
+  
