@@ -1,0 +1,44 @@
+Pseudocódigo:
+
+O pseudocódigo é uma descrição dos passos necessários para resolver um determinado problema em uma linguagem natural, que não está ligada diretamente a uma linguagem de programação.
+
+ALERTAS SOBRE O PSEUDOCÓDIGO
+
+1- Pseudocódigo não é uma linguagem de progração
+2- A ideia todo do pseudocódigo é de escrever algo em uma linguagem natural que pode ser lida por qualquer pessoa.
+3-Pseudocódigo não é padronizado, pode ser escritos de várias maneiras. Não há um padrão certo ou errado de escrever.
+4- Não será processado por um computador
+5-Não substitui uma linguagem de programação real
+6-Deve ser usado apenas para criar uma lógica para resolver um problema e depois escrito em linguagem de programação real como Python, Javascript, C#, ou Java
+
+Método 5O's para montar um algorítimo: 
+
+1- Quais são os dados de entrada necessários?
+2- O que devo fazer com estes dados?
+3- Quais são as restrições deste problema?
+4-Qual é o resultado esperado?
+5- Qual é a sequência de passos a ser feitas para chegar ao resultado esperado?
+
+
+    Pseudocódigo Sintaxe
+
+
+•	input: palavra usada para receber dados do usuário 
+
+•	print: exibir o resultado no console
+
+•	if condição: Condicional que controla se algo deve ou não ser feito
+
+•	else: clásula a ser executada caso nenhuma condicional if seja executada
+
+•	loop de X a Y: laços de repitação que irá iterar de X a Y
+
+•	loop X em Y: laços de repetição que irá iterar X em uma coleção Y
+
+•	While X: laços de repetição que acontecerá enquanto um condição for verdadeira. 
+
+
+
+
+
+

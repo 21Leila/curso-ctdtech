@@ -1,0 +1,17 @@
+ Problema 1 em Pseudocódigo - Valor por hora
+
+	input salario_mensal
+	input horas_trabalhadas_por_mes
+	valor_hora=salario_mensal/
+	horas_trabalhadas_por_mes
+	print valor_hora
+
+
+ Problema 2 em Pseudocódigo - Gerador de Boas Vindas
+
+Crie um programa que pede ao usuário seu nome e depois o dá as boas-vindas
+dizendo "X seja bem-vindo", onde X é o nome do usuário.
+
+	input nome_do_usuario
+	print nome_do_usuario + "seja bem vindo-vindo"
+
